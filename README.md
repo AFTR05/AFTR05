@@ -1,4 +1,4 @@
-<a href="#" align="center"><img width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramador-gifs&psig=AOvVaw20HSmoKPOm7Q1QKmzykBl_&ust=1684774532931000&source=images&cd=vfe&ved=0CBEQjRxqGAoTCIix7bPwhv8CFQAAAAAdAAAAABCPAQ" height="410px"/></a>
+<a href="#" align="center"><img width="100%" src="https://raw.githubusercontent.com/aftr03/C:\Users\AFTR\Pictures\perfil.gif" height="410px"/></a>
 
 <h1 align="center">Hi 👋, I'm Andrés</h1>
 
