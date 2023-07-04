@@ -3,21 +3,24 @@
 
 ###
 
-<h3 align="left">A Software Engineering student from Colombia</h3>
+<h3 align="center">A Software Engineering student from Colombia</h3>
 
-###
+## About me
 
 - 🔭 I’m currently studying **Software Engineering**
 - 📫 How to reach me **andrestoro0303@gmail.com**
+<br>
 
-###
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&username=AFTR05" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&username=AFTR05" height="150" alt="languages graph"  />
+
+  
 </div></div>
 
-###
+## Languages and tools
 
 <div align="center">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -31,7 +34,7 @@
 ###
 </div>
 
-###
+## Connect with me
 
 <div align="center"> 
   <a href="https://www.instagram.com/andrestoro0303" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
