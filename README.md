@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">A Software Engineering student from Colombia</h3>
+<h3 align="center">A Software Engineering student</h3>
 
 ## About me
 
