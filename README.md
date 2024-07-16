@@ -11,7 +11,7 @@
 - 📫 How to reach me **andrestoro0303@gmail.com**
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=aerfqcj16svkesfj4z7wng0d8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=aerfqcj16svkesfj4z7wng0d8&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=aerfqcj16svkesfj4z7wng0d8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=aerfqcj16svkesfj4z7wng0d8&redirect=true)
 
 ## GitHub Stats
 
