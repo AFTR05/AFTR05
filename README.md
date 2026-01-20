@@ -78,7 +78,4 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=aerfqcj16svkesfj4z7wng0d8&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=56F0F6&bar_color_cover=false" />
   </a>
 </div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56F0F6,100:0d1117&height=100&section=footer" width="100%" />
