@@ -1,6 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56F0F6,100:0d1117&height=100&section=header" width="100%" />
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=120&section=header"/>
-  
   <h1 align="center">Hi 👋, I'm Andrés</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=56F0F6&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+%26+Mobile+Developer;Building+Scalable+Systems" alt="Typing SVG" />
@@ -82,6 +81,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56F0F6,100:0d1117&height=80&section=footer" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56F0F6,100:0d1117&height=100&section=footer" width="100%" />
