@@ -45,7 +45,6 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AFTR05&show_icons=true&bg_color=0d1117&title_color=56F0F6&icon_color=56F0F6&text_color=ffffff&hide_border=true&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=AFTR05&theme=dark&background=0d1117&stroke=56F0F6&ring=56F0F6&fire=56F0F6&currStreakLabel=56F0F6&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </div>
 
 <div align="center">
