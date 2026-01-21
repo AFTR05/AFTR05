@@ -4,23 +4,18 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  
-permissions:
-  contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake game
+      - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AFTR05
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=FF6FAE&color_dots=FFEFF7,FFD1E6,FFB6D5,FF9FC7,FF6FAE
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FF6FAE&color_dots=FFEFF7,FFD1E6,FFB6D5,FF9FC7,FF6FAE
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
