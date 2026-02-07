@@ -44,14 +44,27 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AFTR05&show_icons=true&bg_color=0d1117&title_color=56F0F6&icon_color=56F0F6&text_color=ffffff&hide_border=true&count_private=true" />
+  <img
+    width="48%"
+    src="https://github-readme-stats-fast.vercel.app/api?username=AFTR05&show_icons=true&bg_color=0d1117&title_color=56F0F6&icon_color=56F0F6&text_color=ffffff&hide_border=true"
+    alt="GitHub Stats"
+  />
 </div>
 
 <div align="center">
   <br/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFTR05&layout=compact&bg_color=0d1117&title_color=56F0F6&text_color=ffffff&hide_border=true&langs_count=6" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AFTR05&theme=github_dark&utcOffset=-5" />
+  <img
+    width="48%"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AFTR05&layout=compact&bg_color=0d1117&title_color=56F0F6&text_color=ffffff&hide_border=true&langs_count=6"
+    alt="Top Languages"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AFTR05&theme=github_dark&utcOffset=-5"
+    alt="Productive Time"
+  />
 </div>
+
 
 ---
 
